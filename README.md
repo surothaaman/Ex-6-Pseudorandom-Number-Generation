@@ -61,7 +61,8 @@ print(f"Pseudorandom choice from list: {random_choice}")
 ```
 ## output:
 
-![alt text](<Screenshot 2024-09-30 091103.png>)
+![Screenshot 2024-09-30 091103](https://github.com/user-attachments/assets/973880d3-a92e-4422-90f0-72e00493d25c)
+
 
 ## Result:
 
